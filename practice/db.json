@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Mamta Rani",
+      "email": "mamtarani172001@gmail.com",
+      "password": "mamta",
+      "id": 1
+    },
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "anter preet kaur",
+      "email": "anter@gamail.com",
+      "password": "anter",
+      "id": 11
+    },
+    {
+      "name": "sudama",
+      "email": "sudama@gmail.com",
+      "password": "sudama",
+      "id": 12
+    },
+    {
+      "name": "ankita ",
+      "email": "ankita@gmail.com",
+      "password": "ankita",
+      "id": 13
+    },
+    {
+      "name": "raman",
+      "email": "raman@gmail.com",
+      "password": "ramna",
+      "id": 14
+    }
+  ]
+}
